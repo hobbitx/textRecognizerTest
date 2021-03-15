@@ -1,0 +1,20 @@
+{
+    "input": "nova linha",
+    "options": [{
+            "Index": 0,
+            "Text": "Nova Linha",
+            "Synonyms": [
+                "nova",
+                "linha nova"
+            ]
+        },
+        {
+            "Index": 1,
+            "Text": "Portabilidade",
+            "Synonyms": [
+                "portabilidade",
+                "manter numero"
+            ]
+        }
+    ]
+}
